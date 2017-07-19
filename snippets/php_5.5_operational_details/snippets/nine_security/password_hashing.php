@@ -1,0 +1,4 @@
+<?php
+
+//password hashing API
+

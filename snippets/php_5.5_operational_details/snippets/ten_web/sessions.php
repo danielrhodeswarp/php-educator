@@ -1,0 +1,3 @@
+<?php
+
+//eg. session autostarting
