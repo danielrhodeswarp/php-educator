@@ -5,6 +5,7 @@ HOWTO
 * vagrant up (you'll need Vagrant installed obvs)
 * vagrant ssh
 * cd quiz/quiz
+* (composer stuff)?
 * php artisan quiz:scrape-function-data [only need to do this once]
 * php artisan quiz:play [the main event!]
 
