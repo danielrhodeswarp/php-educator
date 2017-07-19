@@ -1,5 +1,15 @@
 #PHP Educator
 
+TODO
+
+* somehow trap parse and fatal errors, tell about, but basically ignore
+    (for the Docker snippets looper)
+* finish (and configure in run_all_snippets.php) the snippets for 5.5 operational details
+* oops, the PHP 7.1 snippets (study guide and operational details) are totally empty!
+
+
+INTRO
+
 A couple of things that are helping me study for the PHP 7.1 exam.
 They are:
 
