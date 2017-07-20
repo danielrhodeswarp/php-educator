@@ -2,7 +2,7 @@
 
 TODO
 
-* finish (and configure in run_all_snippets.php) the snippets for 5.5 operational details
+* finish the snippets for 5.5 operational details
 * oops, the PHP 7.1 snippets (study guide and operational details) are totally empty!
 * need to think about error_reporting level for snippets?
 
