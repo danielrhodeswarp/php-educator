@@ -1,4 +1,4 @@
-#PHP Educator
+# php-educator
 
 TODO
 
